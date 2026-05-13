@@ -1,8 +1,6 @@
 # Hi, I'm Yeanwoo Choi 👋
 
-I'm a 16-year-old student developer interested in software engineering, artificial intelligence, and scientific computing.
-
-I enjoy building projects, solving algorithmic problems, and exploring how programming can be used to model and understand real-world systems.
+I'm a 16-year-old student developer from south korea interested in software engineering, artificial intelligence, and scientific computing.
 
 ## Languages
 
